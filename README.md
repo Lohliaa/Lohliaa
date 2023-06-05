@@ -37,23 +37,6 @@
 ---
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="30px" src="https://user-images.githubusercontent.com/95728206/213154925-90c186ce-6297-4458-9c02-68a043ada466.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="HTML" width="30px" src="https://user-images.githubusercontent.com/95728206/213154743-f8f66372-134e-45ab-a305-ec30cbf712ab.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java Script" width="30px" src="https://user-images.githubusercontent.com/95728206/213155076-7a20ee04-c00d-4722-9a1e-7dca9e7b61e6.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Flutter" width="30px" src="https://user-images.githubusercontent.com/95728206/213154424-50dfaee5-f092-412f-a112-9d9ca11f1586.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Laravel" width="30px" src="https://img.icons8.com/fluency/48/000000/laravel.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="VSCode" width="30px" src="https://user-images.githubusercontent.com/95728206/213155526-d131e7b9-fc88-4645-a6c5-154ad18faaa0.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Android Studio" width="30px" src="https://user-images.githubusercontent.com/95728206/213154042-67fdeb95-07e1-4909-80eb-1379f543b5ee.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Google Cloud" width="30px" src="https://user-images.githubusercontent.com/95728206/213153645-da65767c-49b6-42d6-8d4c-c763fd35b333.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Figma" width="30px" src="https://img.icons8.com/fluency/48/000000/figma.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Corel draw" width="30px" src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Word" width="30px" src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PPT" width="30px" src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png" style="padding-right:10px;" />][webdev]
-
 <br />
 <br />
 
