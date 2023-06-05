@@ -1,11 +1,11 @@
-# Hi there, I'm Aisyah - aka [Aisyah](https://instagram.com/_aisyaa14) 👋
+# Hi there, I'm Lia Puspita Dewi - aka [Lia](https://www.instagram.com/liapsptaa_/) 👋
 [<img align="right" alt="MySQL" width="275px" src="https://img.freepik.com/free-vector/illustration-female-character-wearing-hijab-working-office_10045-686.jpg?t=st=1658821433~exp=1658822033~hmac=4dfbd3e89be96163f2652fac60eabbf7a172a500e62e2da9cc525d8e589dabc0&w=740" />][webdev]
 ## About me:
 - 🏫 I am currently studying at [Malang State Polytechnic](https://www.polinema.ac.id/)
-- 💻 I am learning Python, Javascript, HTML, PHP and Java
-- 🏆 I have Graphic Designer, Video Editing, Animation skills
+- 💻 I am learning Python, Javascript, HTML, PHP, Java and MySQL Database
+- 🏆 I have Graphic Designer
 - 💬 Ask me about anything
-- 📫 How to contact me: sitiaisyah4110@gmail.com
+- 📫 How to contact me: liapuspitadewi13@gmail.com
 
 
 
@@ -14,41 +14,22 @@
 #### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id/) | Information Technology Department | Malang `2020 - Now`
   - Information technology major
   - D4-Informatics Engineering Study Program
- #### 2. [SMKN 2 Sukorejo]() | Multimedia | Pasuruan `2017-2020`
-   - Multimedia
-
-
-## Non-Formal Education, Training and Seminar :
-#### 1. Soft Skills Personal Branding training Digital Talent Scholarship Post-Training Program | Malang `2021`
-#### 2. Soft Skills Interpersonal Skill training Digital Talent Scholarship Post-Training Program | Malang `2021`
-#### 3. Junior Graphics training Program Designer Vocational School Digital Graduate Academy Talent Scholarship | Malang `2021`
-#### 4. Edupreneur UKM Usaha Mahasiswa | Malang `2021`
-#### 5. Digitalpreneur Kolaborasi UKM Usaha Mahasiswa dan BEM Politeknik Negeri Malang | Malang `2021`
-#### 6. Online Workshop Participants - Video Editing Tips & Tricks | Malang `2021`
-#### 7. Artificial Intelligence Innovation Summit 2021 | International `2021`
-#### 8. Class Graduation Introduction to Logic Programming (Programming Logic 101) | Malang `2021`
-#### 9. Skeleton Certification National Qualification Indonesia Level II Fields Multimedia | Pasuruan `2020`
-#### 10. Junior Graphic Competence Field designer IT Multimedia | Malang `2021`
+ #### 2. [MA Pesantren Al-Amin]() | IPA | Mojokerto `2017-2020`
+   - IPA
 
 
 ## Achievement:
 [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601.jpg?w=740" />][webdev]
-#### 1. LKS Competition Wilker II Jatim| Desain Graphic Techonology | Jember `2019`
-#### 2. Student Creativity Program (PKM) Funding Winner | PKM-KC | Malang `2020 - 2021`
-#### 3. KMIPN III Contest Participants | Cipta Inovasi | Malang `2020 - 2021`
-#### 4. 1st Place in Internal Competition | Bisnis TIK | Malang `2021 - 2022`
-#### 5. Student Creativity Program (PKM) Funding Winner | PKM-PI | Malang `2021 - 2022`
-#### 6. 2nd Winner of Internal Competition | Inovasi Aplikasi | Malang `2022-2023`
-#### 7. Participants of Gemastik XV National Student Exhibition in the Field of ICT | LKTI TIK | Malang `2022-2023`
-#### 8. Semifinalist in the Application Development Competition | App Development | Malang `2022-2023`
-#### 9. Participants of Vocational Olympiad 2022 | Web Design | Malang `2022-2023`
+#### 1. Runner-Up DigiFest 1.0 | Desain Poster | `2022`
+#### 2. Finalist of Udayana Art Festival | Poster Design | `2022`
+#### 3. Finalist of KMIPN IV | Innovation Creation | `2022``
 
 
 ## Committee and Organization:
 [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/communication-flat-icon_1262-18771.jpg?t=st=1658822276~exp=1658822876~hmac=4c38d9382fa62ea02d0b83c3aabf3771560f884c71843136175d30ff06bc0ba5&w=740" />][webdev]
-#### 1. Member of Student Business UKM Organization | Malang `2020 - Now`
-#### 2. Committee for Student Business UKM National Seminar | Malang `2021`
-#### 2. Giras Community Volunteers in Graphic Design and Content Creator | Malang `2022`
+#### 1. Organizing Committee of Research and Technology Department, Interests & Talents |  `2020 - 2021`
+#### 2. Second Coordinator of KOMINFO | OSIS `2018-2019`
+#### 3. Second Coordinator of Scout | EKSTRAKURIKULER `2017-2018`
 
 ---
 ### Languages and Tools:
@@ -66,10 +47,6 @@
 [<img align="left" alt="Google Cloud" width="30px" src="https://user-images.githubusercontent.com/95728206/213153645-da65767c-49b6-42d6-8d4c-c763fd35b333.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="30px" src="https://img.icons8.com/fluency/48/000000/figma.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Corel draw" width="30px" src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Adobe Photoshop" width="30px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Adobe Premier" width="30px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Adobe Flash" width="30px" src="https://img.icons8.com/color/48/000000/adobe-flash--v1.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Filmora" width="30px" src="https://img.icons8.com/color/48/000000/filmora.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Word" width="30px" src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PPT" width="30px" src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png" style="padding-right:10px;" />][webdev]
@@ -80,13 +57,11 @@
 ---
 ### Connect with me:
 
-[![website](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/channel/UCm17-AcMDibYaqwy1_O40bA#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/ih_leeya#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/aisyaa140102#gh-light-mode-only)
+[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/liapsptaa_#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/_aisyaa14#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/aisyaa14#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/liapsptaa_13#gh-light-mode-only)
 
 
 [webdev]: https://github.com/sitiaisyah14
@@ -94,14 +69,14 @@
 ### Content on github :
 <br/>
 <p align="center">
-  <a href="https://github.com/sitiaisyah14">
-     <img  width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sitiaisyah14&theme=omni&hide_border=true" />
+  <a href="https://github.com/Lohliaa">
+     <img  width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lohliaa&theme=omni&hide_border=true" />
        </a>
    </p>
    <p align="left">
-  <a href="https://github.com/sitiaisyah14">
-          <img height="30%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sitiaisyah14&show_icons=true&theme=omni&hide_border=true" />
-      <img height="60%" width="38%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sitiaisyah14&langs_count=8&layout=compact&theme=omni&hide_border=true"/>
+  <a href="https://github.com/Lohliaa">
+          <img height="30%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Lohliaa&show_icons=true&theme=omni&hide_border=true" />
+      <img height="60%" width="38%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lohliaa&langs_count=8&layout=compact&theme=omni&hide_border=true"/>
   </a>
    </p>
 <br>
