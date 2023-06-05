@@ -11,7 +11,7 @@
 
 ## Education:
    [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=740" />][webdev]
-#### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id/) | Information Technology Department | Malang `2020 - Now`
+#### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id/) | Information Technology Department | Malang `2020-Now`
   - Information Technology Major
   - D4-Informatics Engineering Study Program
  #### 2. [MA Pesantren Al-Amin]() | IPA | Mojokerto `2017-2020`
@@ -21,15 +21,15 @@
 [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601.jpg?w=740" />][webdev]
 #### 1. Runner-Up DigiFest 1.0 | Poster Design | `2022`
 #### 2. Finalist of Udayana Art Festival | Poster Design | `2022`
-#### 3. Finalist of KMIPN IV | Innovation Creation | `2022``
+#### 3. Finalist of KMIPN IV | Innovation Creation | `2022`
 
 ## Committee and Organization:
-[<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/communication-flat-icon_1262-18771.jpg?t=st=1658822276~exp=1658822876~hmac=4c38d9382fa62ea02d0b83c3aabf3771560f884c71843136175d30ff06bc0ba5&w=740" />][webdev]
-#### 1. Organizing Committee of Research and Technology Department, Interests & Talents |  `2020 - 2021`
+#### 1. Organizing Committee of Research and Technology Department, Interests & Talents |  `2020-2021`
 #### 2. Second Coordinator of KOMINFO | OSIS `2018-2019`
 #### 3. Second Coordinator of Scout | EKSTRAKURIKULER `2017-2018`
 
 ## Experience:
+[<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/communication-flat-icon_1262-18771.jpg?t=st=1658822276~exp=1658822876~hmac=4c38d9382fa62ea02d0b83c3aabf3771560f884c71843136175d30ff06bc0ba5&w=740" />][webdev]
 #### 1. Information System for State Elementary School 108 Gresik (Web-based with Laravel Framework) | 2023 | (https://sdn108gresik.sch.id/)
 #### 2. Kediri Kebab Ayu Management System (Web-based with Laravel Framework) | 2022 | (https://kebabayu.trixsite.com/)
 #### 3. Eye Check Mobile Application (Mockup) | 2022
