@@ -1,9 +1,9 @@
-# Hi there, I'm Lia Puspita Dewi - aka [Lia](https://www.instagram.com/liapsptaa_/) 👋
+# Hi there, I'm Lia Puspita Dewi - aka [Lea](https://www.instagram.com/liapd/) 👋
 [<img align="right" alt="MySQL" width="275px" src="https://img.freepik.com/free-vector/muslim-girl-safari-outfit-cartoon-character-sticker_1308-80383.jpg?w=740&t=st=1685937959~exp=1685938559~hmac=73a54e81d7965dd18fedc7ef0e6877ba645195a2c459cb58df38dca2131f246f" />][webdev]
 ## About me:
 - 🏫 I am currently studying at [Malang State Polytechnic](https://www.polinema.ac.id/)
-- 💻 I am learning Python, Javascript, HTML, PHP, Java and MySQL Database
-- 🏆 I have Graphic Designer
+- 💻 I am learning Python, Javascript, HTML, PHP, Java, Laravel and MySQL Database
+- 🏆 I have Administration, HR Management, and Programming
 - 💬 Ask me about anything
 - 📫 How to contact me: liapuspitadewi13@gmail.com
 
@@ -11,7 +11,7 @@
 
 ## Education:
    [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=740" />][webdev]
-#### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id/) | Information Technology Department | Malang `2020-Now`
+#### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id/) | Information Technology Department | Malang `2020-2024`
   - Information Technology Major
   - D4-Informatics Engineering Study Program
  #### 2. [MA Pesantren Al-Amin]() | IPA | Mojokerto `2017-2020`
