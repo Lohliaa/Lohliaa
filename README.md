@@ -2,8 +2,8 @@
 [<img align="right" alt="MySQL" width="275px" src="https://img.freepik.com/free-vector/muslim-girl-safari-outfit-cartoon-character-sticker_1308-80383.jpg?w=740&t=st=1685937959~exp=1685938559~hmac=73a54e81d7965dd18fedc7ef0e6877ba645195a2c459cb58df38dca2131f246f" />][webdev]
 ## About me:
 - 🏫 I am currently studying at [Malang State Polytechnic](https://www.polinema.ac.id/)
-- 💻 I am learning Python, Javascript, HTML, PHP, Java, Laravel and MySQL Database
-- 🏆 I have Administration, HR Management, and Programming
+- 💻 I am learning Laravel, PHP, Javascript, MySQL Database, Java and Python
+- 🏆 I have HR Management, Administration, and Programming
 - 💬 Ask me about anything
 - 📫 How to contact me: liapuspitadewi13@gmail.com
 
